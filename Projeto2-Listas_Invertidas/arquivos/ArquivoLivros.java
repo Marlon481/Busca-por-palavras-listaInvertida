@@ -60,7 +60,7 @@ public class ArquivoLivros extends Arquivo<Livro> {
     ArrayList<Integer> listaID = new ArrayList<>();
     ArrayList<Integer> listaTmp = new ArrayList<>();
 
-
+    //Realiza a interseção dos termos
     for (int x = 0; x < arrTitulo.size(); x++) {
       String sAux = arrTitulo.get(x);
       try {
