@@ -1,4 +1,4 @@
-#Projeto com aplicação de listas invertidas
+# Projeto com aplicação de listas invertidas
 
 ## Descrição do que foi realizado
   Foi implementada apenas uma classe nova, utilizada para remover stopWords e retirar os acentos e caracteres especiais, mas apenas as stopWords foram excluidas.
